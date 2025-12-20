@@ -2095,14 +2095,6 @@
         "2": "No"
       }
     },
-    "S9": {
-      "description": "Household head and main income contributor",
-      "question": "Are you the main contributor to your family's income or the head of the household?",
-      "values": {
-        "1": "Yes",
-        "2": "No"
-      }
-    },
     "S20.A": {
       "description": "Separate bedroom for parents and children",
       "question": "Does your household have a separate bedroom for parents and children?",
