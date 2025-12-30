@@ -4,7 +4,6 @@
     "wave": 6,
     "description": "Core questionnaire metadata"
   },
-  "sections": {
     "demographics": {
       "country": {
         "description": "country of residence",
@@ -3367,7 +3366,6 @@
       }
     },
     "socioeconomic_background": {
-      },
       "SE2": {
         "description": "respondent's gender",
         "question": "What is your gender?",
@@ -4349,5 +4347,5 @@
         "notes": "Optional question."
       }
     }
-
+}
 
