@@ -3367,7 +3367,6 @@
       }
     },
     "socioeconomic_background": {
-      },
       "SE2": {
         "description": "respondent's gender",
         "question": "What is your gender?",
